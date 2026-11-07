@@ -1,5 +1,9 @@
 # OFLIM — Silver Bromide B&W Film Simulation & Darkroom Console
 
+<p align="center">
+  <img width="1360" height="870" alt="Screenshot 2026-11-07 at 20 03 31" src="https://github.com/user-attachments/assets/f596263c-d040-4ecb-92a0-4d33c4ea9c81" />
+</p>
+
 OFLIM is a high-performance desktop application and darkroom console engineered for authentic analog black & white film emulation. Built on Electron, WebGL 2.0, and vanilla modern web technologies, OFLIM accurately simulates the sensitometry, characteristic D-Log E response curves, physical optical lens filtration, multi-zone silver halide grain synthesis, and chemical darkroom push/pull development of 19 legendary photographic emulsions.
 
 ---
